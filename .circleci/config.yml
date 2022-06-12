@@ -1,6 +1,6 @@
 version: 2
 jobs:
-   one:
+  one:
      docker: 
        - image: cimg/ruby:2.6.8 
          auth:
